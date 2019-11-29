@@ -46,8 +46,11 @@ education:
       university: ESIEE Paris
       time: 2012 - 2014
       details: |
-        This two-year program aims to make its attendees experts in the fields
-        of machine learning, digital image and distributed real-time systems.
+        The purpose of this two-year programme is to make students expert in Computer Science
+        with a special emphasis on Intelligent Systems. It aims to equip its graduates with the
+        skills needed to develop and manage the new generation of software applications that
+        have to fulfill complex features such as, real-time computing, communication, autonomy,
+        safety, etc.
     - degree: B.E. in Electrical Engineering
       university: PUC-RS
       time: 1998 - 2004
