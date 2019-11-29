@@ -5,12 +5,10 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-
     # Profile information
     name: Maximiliano Costa Beber
     tagline: Senior Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
     # Sidebar links
     email: max.beber@gmail.com
     phone: 
@@ -23,27 +21,20 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-
     languages:
       - idiom: Portuguese
         level: Native
-
       - idiom: English
         level: IELTS overall band 7
-
       - idiom: French
         level: Professional
-
     interests:
       - item: Photography
         link:
-
       - item: Yoga
         link:
-
       - item: Trekking
         link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -111,7 +102,6 @@ projects:
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
 publications:
     title: Publications
     intro: |
@@ -123,13 +113,10 @@ publications:
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
-
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: Python & Django
         level: 98%
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
