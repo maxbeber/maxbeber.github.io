@@ -12,14 +12,14 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: max.beber@gmail.com
     phone: 
-    website: blog.webjeda.com #do not add http://
+    website:
     linkedin: maxbeber
     github: maxbeber
     gitlab:
     bitbucket:
-    twitter:
+    twitter: "@maxbeber"
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
