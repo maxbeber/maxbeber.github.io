@@ -52,23 +52,17 @@ career-profile:
       in the design, development, implementation, and troubleshooting of large-scale applications.
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: ESIEE Paris
+      time: 2012 - 2014
       details: |
-        This two-year program aims to make its attendees experts in the fields of machine learning, digital image and distributed real-time systems.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        This two-year program aims to make its attendees experts in the fields
+        of machine learning, digital image and distributed real-time systems.
+    - degree: BSc in Electrical Engineer
+      university: PUC-RS
+      time: 1998 - 2004
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Emphasis in computer engineer. Bachelor final paper titled
+        Linear Traffic Prediction Model using Artificial Neural Networks.
 experiences:
     - role: Lead Developer
       time: 2015 - Present
