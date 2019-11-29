@@ -25,13 +25,13 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Portuguese
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: IELTS overall band score 7
 
-      - idiom: Spanish
+      - idiom: French
         level: Professional
 
     interests:
