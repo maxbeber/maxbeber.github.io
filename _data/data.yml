@@ -153,7 +153,8 @@ moocs:
 datacamp:
     title: Datacamp
     intro: >
-      Twenty nine courses completed. 1593 exercises aced and 600,031 XP earned.
+      Three career tracks completed, three skill tracks completed, twenty nine courses completed,
+      1593 exercises aced, and 600,031 XP earned.
     courses:
       - title: "Introduction to Data Science"
         issued: Nov 2019
