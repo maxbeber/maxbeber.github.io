@@ -19,7 +19,7 @@
   {% for mooc in moocs.courseworks %}
   <div class="item">
     {% if mooc.link %}
-      <li><a href="{{ mooc.link }}">{{ mooc.title }}</a></li>
+      <li><a href="{{ mooc.link }}" target="_blank">{{ mooc.title }}</a></li>
     {% else %}
       <li>{{ mooc.title }}</li>
     {% endif %}
