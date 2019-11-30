@@ -109,7 +109,7 @@ moocs:
     courseworks:
       - title: "Convolutional Neural Networks"
         institution: Deep Learning AI
-        status: in progress (75% complete)
+        status: In progress (75% complete)
         issued:
         expiration:
         link: 
