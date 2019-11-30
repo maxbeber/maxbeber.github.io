@@ -19,13 +19,13 @@
   {% for mooc in moocs.courseworks %}
   <div class="item">
     {% if mooc.link %}
-      <li><a href="{{ moc.link }}">{{ moc.title }}</a></li>
+      <li><a href="{{ mooc.link }}">{{ mooc.title }}</a></li>
     {% else %}
-      <li>{{ moc.title }}</li>
+      <li>{{ mooc.title }}</li>
     {% endif %}
-    <div class="publication-authors">{{ moc.institution }}</div>
-    <div class="publication-conference">Issued {{ moc.issued }}</div>
-    <div class="publication-conference"><a href="{{ moc.credential }}">See credential</a></div>
+    <div class="publication-authors">{{ mooc.institution }}</div>
+    <div class="publication-conference">Issued {{ mooc.issued }}</div>
+    <div class="publication-conference"><a href="{{ mooc.credential }}">See credential</a></div>
   </div><!--//item-->
   {% endfor %}
 
