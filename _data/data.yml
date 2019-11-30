@@ -62,12 +62,15 @@ experiences:
       time: May 2017 - Present
       company: TUI France, Levallois-Peret, France
       details: |
-        Tbd.
+        Technical leader responsible for the design and development of the
+        search capability team using In-Memory compute gid and microservices architecture.
     - role: Senior Software Engineer
       time: Oct 2015 - Apr 2017
       company: Autloop, Porto Alegre, Brazil
       details: |
-        Tbd.
+        Responsible for the development of an API for the Lead Management system as well as
+        integration with business partners. Optimized the existing CRM system, maintenance
+        activities, and improved data protection and security.
     - role: Senior Software Engineer
       time: Dec 2014 - Sep 2015
       company: Banco Santander, Porto Alegre, Brazil
@@ -77,21 +80,22 @@ experiences:
       time: Jan 2014 - Oct 2014
       company: Artza Technologies, Issy-les-Moulineaux, France
       details: |
-        Research and development activities to easily build multi-platforms Enterprise Applications.
+        Research and development activities to allow customers to build multi-platforms
+        Enterprise Applications.
     - role: Software Development Senior Analyst
       time: Jul 2009 - Aug 2012
       company: Dell Inc, Porto Alegre, Brazil
       details: |
         Responsible for design, development and troubleshooting of large-scale global applications.
-          - Enterprise Performance Management team (Nov 2010 - Aug 2012).
-          - Global Warranty Accounting Calculator team (Jul 2009 - Oct 2010).
+          - Enterprise Performance Management team (Nov 2010 - Aug 2012)
+          - Global Warranty Accounting Calculator team (Jul 2009 - Oct 2010)
     - role: Software Development Analyst
       time: Jan 2007 - Jun 2009
       company: Dell Inc, Porto Alegre, Brazil
       details: |
         Responsible for design, development and troubleshooting of large-scale web applications.
-          - Dell E-Commerce for Latin America team (Jun 2008 - Jun 2009).
-          - Dell Software and Peripherals Global E-Commerce team (Jan 2007 - May 2008).
+          - Dell E-Commerce for Latin America team (Jun 2008 - Jun 2009)
+          - Dell Software and Peripherals Global E-Commerce team (Jan 2007 - May 2008)
     - role: Software Developer
       time: May 2005 - Dec 2006
       company: Stefanini IT Solutions, Porto Alegre, Brazil
