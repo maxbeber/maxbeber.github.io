@@ -19,9 +19,9 @@
   {% for mooc in moocs.courseworks %}
   <div class="item">
     {% if mooc.link %}
-      <li><a href="{{ mooc.link }}" target="_blank">{{ mooc.title }}</a></li>
+      <a href="{{ mooc.link }}" target="_blank">{{ mooc.title }}</a>
     {% else %}
-      <li>{{ mooc.title }}</li>
+      {{ mooc.title }}
     {% endif %}
     <div class="publication-authors">{{ mooc.institution }}</div>
     <div class="publication-conference">
@@ -31,7 +31,9 @@
         {{ mooc.status }}
         {% endif %}
     </div>
+    {% if mooc.credential %}
     <div class="publication-conference"><a href="{{ mooc.credential }}" target="_blank">See credential</a></div>
+    {% endif %}
   </div><!--//item-->
   {% endfor %}
 
