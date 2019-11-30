@@ -10,6 +10,12 @@
     {{ pluralsight.title }}
   </h2>
 
+  {% if pluralsight.intro %}
+  <div class="intro">
+    {{ pluralsight.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
   <div class="skillset">
 
     {% for course in pluralsight.courses %}
