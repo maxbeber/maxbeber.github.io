@@ -154,6 +154,84 @@ datacamp:
     title: Datacamp
     intro:
     courses:
+      - title: "Introduction to Data Science"
+        issued: Nov 2019
+        credential: https://www.dropbox.com/s/k7buo84cmpqaxak/20191107-introduction-to-data-science-in-python.pdf?dl=0
+      - title: "Introduction to Shell for Data Science"
+        issued: Nov 2019
+        credential: https://www.dropbox.com/s/ziz1pk1a7hw3fit/20191103-introduction-to-shell-for-data-science.pdf?dl=0
+      - title: "Conda Essentials"
+        issued: Nov 2019
+        credential: https://www.dropbox.com/s/zbmc7pfzrmt4ayn/20191103-conda-essentials.pdf?dl=0
+      - title: "Introduction to Relational Databases in SQL"
+        issued: Nov 2019
+        credential: https://www.dropbox.com/s/zmobovqmg4qs1u0/20191102-introduction-to-relational-databases-in-sql.pdf?dl=0
+      - title: "Network Analysis in Python (Part 1)"
+        issued: Jan 2019
+        credential: https://www.dropbox.com/s/dyu26ck8n313ulc/20190107-network-analysis-in-Python-part1.pdf?dl=0
+      - title: "Deep Learning in Python"
+        issued: Jan 2019
+        credential: https://www.dropbox.com/s/yxyxvrjxe5iuptd/20190103-deep-learning-in-Python.pdf?dl=0
+      - title: "Unsupervised Learning in Python"
+        issued: Dec 2018
+        credential: https://www.dropbox.com/s/8jad6zt68eo02n1/20181231-unsupervised-learning-in-Python.pdf?dl=0
+      - title: "Data Types for Data Science"
+        issued: Dec 2018
+        credential: https://www.dropbox.com/s/1az6wyk24848niw/20181229-data-types-for-data-science.pdf?dl=0
+      - title: "Machine Learning with the Experts: School Budgets Kaggle Competition"
+        issued: Dec 2018
+        credential: https://www.dropbox.com/s/06lysqpxgd1ez5a/20181225-machine-learning-with-the-experts-school-budgets.pdf?dl=0
+      - title: "Supervised Learning with sckit-learn"
+        issued: Dec 2018
+        credential: https://www.dropbox.com/s/yfv6tm34gngsiu6/20181224-supervised-learning-with-scikit-learn.pdf?dl=0
+      - title: "Interactive Data Visualization with Bokeh"
+        issued: Dec 2018
+        credential: https://www.dropbox.com/s/kve5kr1g7fpi7sa/20181222-interactive-data-visualization-with-Bokeh.pdf?dl=0
+      - title: "Intro to Python for Finance"
+        issued: Dec 2018
+        credential: https://www.dropbox.com/s/ky6qrbpjlmlzjea/20181221-introduction-to-Python-for-finance.pdf?dl=0
+      - title: "Statistical Thinking in Python (Part 2)"
+        issued: Dec 2018
+        credential: https://www.dropbox.com/s/ecf7o6h0yde4phl/20181209-statistical-thinking-in-Python-part2.pdf?dl=0
+      - title: "Introduction to Data Visualization with Python"
+        issued: Dec 2018
+        credential: https://www.dropbox.com/s/ebbpxo8chk2jzj0/20181202-introduction-to-data-visualization-with-Python.pdf?dl=0
+      - title: "Statistical Thinking in Python (Part 1)"
+        issued: Nov 2018
+        credential: https://www.dropbox.com/s/fq6be59kbvo5hrw/20181104-statistical-thinking-in-Python-part1.pdf?dl=0
+      - title: "Merging Dataframes with pandas"
+        issued: Nov 2018
+        credential: https://www.dropbox.com/s/vyro6tx3kmww25a/20181103-merging-dataframes-with-Pandas.pdf?dl=0
+      - title: "Analyzing Police Activity with pandas"
+        issued: Nov 2018
+        credential: https://www.dropbox.com/s/czekmpi8o3kgwen/20181103-analyzing-police-activity-with-Pandas.pdf?dl=0
+      - title: "Manipulating DataFrames with pandas"
+        issued: Oct 2018
+        credential: https://www.dropbox.com/s/vc3mf1cd4lb7umm/20181020-manipulating-dataframes-with-Pandas.pdf?dl=0
+      - title: "Pandas Foundations"
+        issued: Oct 2018
+        credential: https://www.dropbox.com/s/9kfq90heh1hyumi/20181007-Pandas-foundations.pdf?dl=0
+      - title: "Cleaning Data in Python"
+        issued: Sep 2018
+        credential: https://www.dropbox.com/s/bc0mge78rigcboe/20180922-cleaning-data-in-Python.pdf?dl=0
+      - title: "Introduction to Databases in Python"
+        issued: Sep 2018
+        credential: https://www.dropbox.com/s/fs0qmy26ynr03q3/20180902-introduction-to-databases-in-Python.pdf?dl=0
+      - title: "Importing Data in Python (Part 2)"
+        issued: Aug 2018
+        credential: https://www.dropbox.com/s/1qp8rubnina0xjh/20180826-importing-data-in-Python-part2.pdf?dl=0
+      - title: "Importing Data in Python (Part 1)"
+        issued: Aug 2018
+        credential: https://www.dropbox.com/s/jnf9lrjjciqiury/20180819-importing-data-in-Python-part1.pdf?dl=0 
+      - title: "Python Data Science Toolbox (Part 2)"
+        issued: Aug 2018
+        credential: https://www.dropbox.com/s/nm6stjev062hjb1/20180812-Python-data-science-toolbox-part2.pdf?dl=0
+      - title: "Python Data Science Toolbox (Part 1)"
+        issued: Aug 2018
+        credential: https://www.dropbox.com/s/o68hx39683lciov/20180805-Python-data-science-toolbox-part1.pdf?dl=0
+      - title: "Intermediate Python for Data Science"
+        issued: Aug 2018
+        credential: https://www.dropbox.com/s/x6tc1vmyweag2rg/20180805-intermediate-Python-for-data-science.pdf?dl=0
       - title: "Intro to Python for Data Science"
         issued: Jul 2018
         credential: https://www.dropbox.com/s/0neca7h0d7gzjxy/20180729-intro-to-Python-for-data-science.pdf?dl=0
