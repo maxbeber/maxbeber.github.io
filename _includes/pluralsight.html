@@ -14,10 +14,12 @@
 
     {% for course in pluralsight.courses %}
     <div class="item">
-
-      <h3 class="level-title">{{ course.title }}</h3>
-
-    </div><!--//item-->
+        {{ course.title }}
+        <div class="publication-conference">Issued {{ course.issued }}</div>
+        {% if course.credential %}
+        <div class="publication-conference"><a href="{{ course.credential }}" target="_blank">See credential</a></div>
+        {% endif %}
+      </div><!--//item-->
     {% endfor %}
 
   </div>
