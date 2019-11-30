@@ -104,42 +104,44 @@ experiences:
         The list of clients includes AES-SUL, Gerdau, and UNIFRA.
 moocs:
     title: MOOCs
+    intro: >
+      Independent courseworks.
     courseworks:
       - title: "Convolutional Neural Networks"
         institution: Deep Learning AI
         issued: in progress (75% complete)
         expiration:
-        url: 
+        link: 
         credential: 
       - title: "Structuring Machine Learning Projects"
         institution: Deep Learning AI
         issued: Nov 2019
         expiration:
-        url: https://www.coursera.org/specializations/deep-learning
+        link: https://www.coursera.org/specializations/deep-learning
         credential: https://www.coursera.org/account/accomplishments/certificate/CACFWJFPZZXQ
       - title: "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
         institution: Deep Learning AI
         issued: Oct 2019
         expiration:
-        url: https://www.coursera.org/specializations/deep-learning
+        link: https://www.coursera.org/specializations/deep-learning
         credential: https://www.coursera.org/account/accomplishments/certificate/RR3AVQ4CZAD4
       - title: "Neural Networks and Deep Learning"
         institution: Deep Learning AI
         issued: Oct 2019
         expiration:
-        url: https://www.coursera.org/specializations/deep-learning
+        link: https://www.coursera.org/specializations/deep-learning
         credential: https://www.coursera.org/account/accomplishments/certificate/RCQY3MZEH5M6
       - title: "Applied Machine Learning"
         institution: Columbia University
         issued: Sep 2019
         expiration:
-        url: https://emeritus.org/management-certificate-programs/applied-machine-learning/
+        link: https://emeritus.org/management-certificate-programs/applied-machine-learning/
         credential: https://www.coursera.org/account/accomplishments/certificate/T5BMPUNFTAYP
       - title: "Machine Learning"
         institution: Stanford University
         issued: May 2019
         expiration:
-        url: https://www.coursera.org/learn/machine-learning
+        link: https://www.coursera.org/learn/machine-learning
         credential: https://certificates.emeritus.org/axy55e7j
 projects:
     title: Projects
