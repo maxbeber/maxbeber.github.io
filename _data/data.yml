@@ -246,7 +246,7 @@ datacamp:
 pluralsight:
     title: Pluralsight
     intro: >
-       Additional Python courses offered as courtesy of a partnership between Pluralsight and Datacamp during 12 months.
+       Additional Python courses offered as courtesy of a partnership between Pluralsight and Datacamp during twelve months.
     courses:
       - title: "Introduction to the Flask Microframework"
         issued: Jun 2019
