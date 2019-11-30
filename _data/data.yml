@@ -154,32 +154,32 @@ pluralsight:
     intro: >
        Additional Python training received as a Datacamp subscriber.
     courses:
-      - title: "Python: The Big Picture"
-        issued: Jan 2019
-        credential: https://www.dropbox.com/s/9v6irzqhwyepxj0/20190112-python-the-big-picture.pdf?dl=0
-      - title: "Python: Getting Started"
-        issued: Jan 2019
-        credential: https://www.dropbox.com/s/ppfiyk369xwr8gq/20190115-python-getting-started.pdf?dl=0
-      - title: "Python Fundamentals"
-        issued: Jan 2019
-        credential: https://www.dropbox.com/s/zik51ve2l9vdh7r/20190127-python-fundamentals.pdf?dl=0
-      - title: "Unit Testing with Python"
-        issued: Fev 2019
-        credential: https://www.dropbox.com/s/4r4j0k13nc8d1qh/20190203-unit-testing-with-python.pdf?dl=0
-      - title: "The Python Developer's Toolkit"
-        issued: Fev 2019
-        credential: https://www.dropbox.com/s/edng8v43mz30kkz/20190210-python-developers-toolbox.pdf?dl=0
-      - title: "Python – Beyond the Basics"
-        issued: Mar 2019
-        credential: https://www.dropbox.com/s/i7b8m7io2fica64/20190309-python-beyond-the-basics.pdf?dl=0
-      - title: "Advanced Python"
-        issued: Mar 2019
-        credential: https://www.dropbox.com/s/ellitmsof5omvcf/20190324-advanced-python.pdf?dl=0
-      - title: "Full Stack Web Development with Python (WEB2PY)"
-        issued: Mar 2019
-        credential: https://www.dropbox.com/s/ieg8g5ihw2ty9nm/20190311-full-stack-web-development-with-Python.pdf?dl=0
       - title: "Introduction to the Flask Microframework"
         issued: Jun 2019
         credential: https://www.dropbox.com/s/lffj21cj3jk9nxj/20190606-introduction-to-Flask-micro-framework.pdf?dl=0
+      - title: "Full Stack Web Development with Python (WEB2PY)"
+        issued: Mar 2019
+        credential: https://www.dropbox.com/s/ieg8g5ihw2ty9nm/20190311-full-stack-web-development-with-Python.pdf?dl=0
+      - title: "Advanced Python"
+        issued: Mar 2019
+        credential: https://www.dropbox.com/s/ellitmsof5omvcf/20190324-advanced-python.pdf?dl=0
+      - title: "Python – Beyond the Basics"
+        issued: Mar 2019
+        credential: https://www.dropbox.com/s/i7b8m7io2fica64/20190309-python-beyond-the-basics.pdf?dl=0
+      - title: "The Python Developer's Toolkit"
+        issued: Fev 2019
+        credential: https://www.dropbox.com/s/edng8v43mz30kkz/20190210-python-developers-toolbox.pdf?dl=0
+      - title: "Unit Testing with Python"
+        issued: Fev 2019
+        credential: https://www.dropbox.com/s/4r4j0k13nc8d1qh/20190203-unit-testing-with-python.pdf?dl=0
+      - title: "Python Fundamentals"
+        issued: Jan 2019
+        credential: https://www.dropbox.com/s/zik51ve2l9vdh7r/20190127-python-fundamentals.pdf?dl=0
+      - title: "Python: Getting Started"
+        issued: Jan 2019
+        credential: https://www.dropbox.com/s/ppfiyk369xwr8gq/20190115-python-getting-started.pdf?dl=0
+      - title: "Python: The Big Picture"
+        issued: Jan 2019
+        credential: https://www.dropbox.com/s/9v6irzqhwyepxj0/20190112-python-the-big-picture.pdf?dl=0
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
