@@ -112,28 +112,28 @@ moocs:
         status: In progress (75% complete)
         issued:
         expiration:
-        link: 
+        link: https://www.coursera.org/specializations/deep-learning#courses
         credential: 
       - title: "Structuring Machine Learning Projects"
         institution: Deep Learning AI
         status: completed
         issued: Nov 2019
         expiration:
-        link: https://www.coursera.org/specializations/deep-learning
+        link: https://www.coursera.org/specializations/deep-learning#courses
         credential: https://www.coursera.org/account/accomplishments/certificate/CACFWJFPZZXQ
       - title: "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
         institution: Deep Learning AI
         status: completed
         issued: Oct 2019
         expiration:
-        link: https://www.coursera.org/specializations/deep-learning
+        link: https://www.coursera.org/specializations/deep-learning#courses
         credential: https://www.coursera.org/account/accomplishments/certificate/RR3AVQ4CZAD4
       - title: "Neural Networks and Deep Learning"
         institution: Deep Learning AI
         status: completed
         issued: Oct 2019
         expiration:
-        link: https://www.coursera.org/specializations/deep-learning
+        link: https://www.coursera.org/specializations/deep-learning#courses
         credential: https://www.coursera.org/account/accomplishments/certificate/RCQY3MZEH5M6
       - title: "Applied Machine Learning"
         institution: Columbia University
