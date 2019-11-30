@@ -24,7 +24,13 @@
       <li>{{ mooc.title }}</li>
     {% endif %}
     <div class="publication-authors">{{ mooc.institution }}</div>
-    <div class="publication-conference">Issued {{ mooc.issued }}</div>
+    <div class="publication-conference">
+        {% if mooc.issued %}
+        Issued {{ mooc.issued }}
+        {% else %}
+        <li>{{ mooc.status }}</li>
+        {% endif %}
+    </div>
     <div class="publication-conference"><a href="{{ mooc.credential }}" target="_blank">See credential</a></div>
   </div><!--//item-->
   {% endfor %}

@@ -109,36 +109,42 @@ moocs:
     courseworks:
       - title: "Convolutional Neural Networks"
         institution: Deep Learning AI
-        issued: in progress (75% complete)
+        status: in progress (75% complete)
+        issued:
         expiration:
         link: 
         credential: 
       - title: "Structuring Machine Learning Projects"
         institution: Deep Learning AI
+        status: completed
         issued: Nov 2019
         expiration:
         link: https://www.coursera.org/specializations/deep-learning
         credential: https://www.coursera.org/account/accomplishments/certificate/CACFWJFPZZXQ
       - title: "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
         institution: Deep Learning AI
+        status: completed
         issued: Oct 2019
         expiration:
         link: https://www.coursera.org/specializations/deep-learning
         credential: https://www.coursera.org/account/accomplishments/certificate/RR3AVQ4CZAD4
       - title: "Neural Networks and Deep Learning"
         institution: Deep Learning AI
+        status: completed
         issued: Oct 2019
         expiration:
         link: https://www.coursera.org/specializations/deep-learning
         credential: https://www.coursera.org/account/accomplishments/certificate/RCQY3MZEH5M6
       - title: "Applied Machine Learning"
         institution: Columbia University
+        status: completed
         issued: Sep 2019
         expiration:
         link: https://emeritus.org/management-certificate-programs/applied-machine-learning/
         credential: https://www.coursera.org/account/accomplishments/certificate/T5BMPUNFTAYP
       - title: "Machine Learning"
         institution: Stanford University
+        status: completed
         issued: May 2019
         expiration:
         link: https://www.coursera.org/learn/machine-learning
