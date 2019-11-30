@@ -28,7 +28,7 @@
         {% if mooc.issued %}
         Issued {{ mooc.issued }}
         {% else %}
-        <li>{{ mooc.status }}</li>
+        {{ mooc.status }}
         {% endif %}
     </div>
     <div class="publication-conference"><a href="{{ mooc.credential }}" target="_blank">See credential</a></div>
