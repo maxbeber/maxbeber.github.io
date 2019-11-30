@@ -37,10 +37,10 @@ sidebar:
         link:
 career-profile:
     title: Career Profile
-    summary: >
+    summary: |
       Around 12 years of experience in software development activities working in multicultural teams.
       Solid experience in the design, development, implementation, and troubleshooting of large-scale applications.
-      Toastmaster Advanced Leadership Bronze and Advanced Communicator Bronze certifications. 
+      Toastmaster Advanced Leadership Bronze and Advanced Communicator Bronze certifications.
       Machine learning enthusiast and practitioner.
 education:
     - degree: MSc in Computer Science
