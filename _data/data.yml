@@ -141,14 +141,14 @@ moocs:
         issued: Sep 2019
         expiration:
         link: https://emeritus.org/management-certificate-programs/applied-machine-learning/
-        credential: https://www.coursera.org/account/accomplishments/certificate/T5BMPUNFTAYP
+        credential: https://certificates.emeritus.org/axy55e7j
       - title: "Machine Learning"
         institution: Stanford University
         status: completed
         issued: May 2019
         expiration:
         link: https://www.coursera.org/learn/machine-learning
-        credential: https://certificates.emeritus.org/axy55e7j
+        credential: https://www.coursera.org/account/accomplishments/certificate/T5BMPUNFTAYP
 projects:
     title: Projects
     intro: >
