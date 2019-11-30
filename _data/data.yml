@@ -153,8 +153,8 @@ moocs:
 datacamp:
     title: Datacamp
     intro: >
-      Three career tracks completed, three skill tracks completed, twenty nine courses completed,
-      1593 exercises aced, and 600,031 XP earned.
+      Three career tracks completed, three skill tracks completed, 29 courses completed,
+      1593 exercises aced, and 600231 XP earned as of November, 30th.
     courses:
       - title: "Introduction to Data Science"
         issued: Nov 2019
@@ -246,7 +246,7 @@ datacamp:
 pluralsight:
     title: Pluralsight
     intro: >
-       Additional Python training offered as courtesy of a partnership between Pluralsight and Datacamp.
+       Additional Python courses offered as courtesy of a partnership between Pluralsight and Datacamp during 12 months.
     courses:
       - title: "Introduction to the Flask Microframework"
         issued: Jun 2019
