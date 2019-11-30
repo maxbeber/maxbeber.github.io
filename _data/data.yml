@@ -62,8 +62,9 @@ experiences:
       time: May 2017 - Present
       company: TUI France, Levallois-Peret, France
       details: |
-        I have been working as a technical leader responsible for the design and development of the
-        search engine based on In-Memory compute gid and a microservices architecture.
+        I have been working as a technical leader responsible for the design and development of a
+        real time search and price calculation engine based on In-Memory compute gid and
+        a microservices architecture for the company website.
     - role: Senior Software Engineer
       time: Oct 2015 - Apr 2017
       company: Autloop, Porto Alegre, Brazil
