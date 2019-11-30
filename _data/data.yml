@@ -150,6 +150,19 @@ moocs:
         expiration:
         link: https://www.coursera.org/learn/machine-learning
         credential: https://www.coursera.org/account/accomplishments/certificate/T5BMPUNFTAYP
+datacamp:
+    title: Datacamp
+    intro:
+    courses:
+      - title: "Intro to Python for Data Science"
+        issued: Jul 2018
+        credential: https://www.dropbox.com/s/0neca7h0d7gzjxy/20180729-intro-to-Python-for-data-science.pdf?dl=0
+      - title: "Joining Data in PosteSQL"
+        issued: Jun 2018
+        credential: https://www.dropbox.com/s/mrrfq8y5mnn65dp/20180624-joining-data-in-PostegreSQL.pdf?dl=0
+      - title: "Intro to SQL for Data Science"
+        issued: Jun 2018
+        credential: https://www.dropbox.com/s/3cxxxm1w493wrfo/20180611-intro-to-sql-for-data-science.pdf?dl=0
 pluralsight:
     title: Pluralsight
     intro: >
