@@ -106,15 +106,15 @@ experiences:
 moocs:
     title: MOOCs
     intro: >
-      Independent courseworks.
+    Independent courseworks.
     courseworks:
       - title: "Convolutional Neural Networks"
         institution: Deep Learning AI
-        status: In progress (75% complete)
-        issued:
+        status: completed
+        issued: Dec 2019
         expiration:
         link: https://www.coursera.org/specializations/deep-learning#courses
-        credential: 
+        credential: https://www.coursera.org/account/accomplishments/certificate/AL9URTGU8TG9
       - title: "Structuring Machine Learning Projects"
         institution: Deep Learning AI
         status: completed
