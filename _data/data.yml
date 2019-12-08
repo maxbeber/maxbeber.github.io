@@ -106,7 +106,7 @@ experiences:
 moocs:
     title: MOOCs
     intro: >
-    Independent courseworks.
+      Independent courseworks.
     courseworks:
       - title: "Convolutional Neural Networks"
         institution: Deep Learning AI
