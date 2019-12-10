@@ -157,7 +157,7 @@ datacamp:
       1650 exercises aced, and 617181 XP earned as of December, 10th.
     courses:
       - title: "Machine Learning with Tree-Based Models in Python"
-        issued: Dev 2019
+        issued: Dec 2019
         credential: https://www.dropbox.com/s/jkyclsnr2wai65l/20191210-machine-learning-with-tree-based-models-in-python.pdf?dl=0
       - title: "Introduction to Data Science"
         issued: Nov 2019
