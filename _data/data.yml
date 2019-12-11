@@ -154,7 +154,7 @@ datacamp:
     title: Datacamp
     intro: >
       Three career tracks completed, three skill tracks completed, 30 courses completed,
-      1650 exercises aced, and 617181 XP earned as of December, 10th.
+      1650 exercises aced, and 617181 XP earned as of today.
     courses:
       - title: "Machine Learning with Tree-Based Models in Python"
         issued: Dec 2019
