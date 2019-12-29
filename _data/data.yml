@@ -107,6 +107,13 @@ moocs:
     intro: >
       Independent courseworks.
     courseworks:
+      - title: "Deep Learning Specialization"
+        institution: deeplearning.ai
+        status: completed
+        issued: Dec 2019
+        expiration:
+        link: https://www.coursera.org/specializations/deep-learning#courses
+        credential: https://www.coursera.org/account/accomplishments/specialization/certificate/84GWG8VXCQR8
       - title: "Sequence Models"
         institution: deeplearning.ai
         status: completed
