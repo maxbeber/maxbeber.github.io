@@ -107,6 +107,13 @@ moocs:
     intro: >
       Independent courseworks.
     courseworks:
+      - title: "Fundamentals of Reinforcement Learning"
+        institution: University of Alberta
+        status: completed
+        issued: Jan 2020
+        expiration:
+        link: https://www.coursera.org/learn/fundamentals-of-reinforcement-learning#syllabus
+        credential: https://www.coursera.org/account/accomplishments/certificate/QBRDS88E5ZAJ
       - title: "Deep Learning Specialization"
         institution: deeplearning.ai
         status: completed
