@@ -107,63 +107,70 @@ moocs:
     intro: >
       Independent courseworks.
     courseworks:
-      - title: "Fundamentals of Reinforcement Learning"
-        institution: University of Alberta
+      - title: Sample-based Learning Methods
+        institution: Alberta Machine Intelligence Institute
+        status: completed
+        issued: Fev 2020
+        expiration:
+        link: Syllabus
+        credential: https://www.coursera.org/account/accomplishments/certificate/2XSRVNDCZMMR
+      - title: Fundamentals of Reinforcement Learning
+        institution: Alberta Machine Intelligence Institute
         status: completed
         issued: Jan 2020
         expiration:
         link: https://www.coursera.org/learn/fundamentals-of-reinforcement-learning#syllabus
         credential: https://www.coursera.org/account/accomplishments/certificate/QBRDS88E5ZAJ
-      - title: "Deep Learning Specialization"
+      - title: Deep Learning Specialization
         institution: deeplearning.ai
         status: completed
         issued: Dec 2019
         expiration:
         link: https://www.coursera.org/specializations/deep-learning#courses
         credential: https://www.coursera.org/account/accomplishments/specialization/certificate/84GWG8VXCQR8
-      - title: "Sequence Models"
+      - title: Sequence Models
         institution: deeplearning.ai
         status: completed
         issued: Dec 2019
         expiration:
         link: https://www.coursera.org/specializations/deep-learning#courses
         credential: https://www.coursera.org/account/accomplishments/certificate/M62C2H89XJV2
-      - title: "Convolutional Neural Networks"
+      - title: Convolutional Neural Networks
         institution: deeplearning.ai
         status: completed
         issued: Dec 2019
         expiration:
         link: https://www.coursera.org/specializations/deep-learning#courses
         credential: https://www.coursera.org/account/accomplishments/certificate/AL9URTGU8TG9
-      - title: "Structuring Machine Learning Projects"
+      - title: Structuring Machine Learning Projects
         institution: deeplearning.ai
         status: completed
         issued: Nov 2019
         expiration:
         link: https://www.coursera.org/specializations/deep-learning#courses
         credential: https://www.coursera.org/account/accomplishments/certificate/CACFWJFPZZXQ
-      - title: "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+      - title: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
         institution: deeplearning.ai
         status: completed
         issued: Oct 2019
         expiration:
         link: https://www.coursera.org/specializations/deep-learning#courses
         credential: https://www.coursera.org/account/accomplishments/certificate/RR3AVQ4CZAD4
-      - title: "Neural Networks and Deep Learning"
+      - title: Neural Networks and Deep Learning
         institution: deeplearning.ai
         status: completed
         issued: Oct 2019
         expiration:
         link: https://www.coursera.org/specializations/deep-learning#courses
         credential: https://www.coursera.org/account/accomplishments/certificate/RCQY3MZEH5M6
-      - title: "Applied Machine Learning"
+      - title: Applied Machine Learning
         institution: Columbia University
         status: completed
         issued: Sep 2019
         expiration:
         link: https://emeritus.org/management-certificate-programs/applied-machine-learning/
         credential: https://certificates.emeritus.org/axy55e7j
-      - title: "Machine Learning"
+      - title: Machine Learning
         institution: Stanford University
         status: completed
         issued: May 2019
