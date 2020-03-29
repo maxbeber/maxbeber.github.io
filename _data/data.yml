@@ -107,6 +107,13 @@ moocs:
     intro: >
       Independent courseworks.
     courseworks:
+      - title: "Prediction and Control with Function Approximation"
+        institution: "Alberta Machine Intelligence Institute"
+        status: "completed"
+        issued: "Mar 2020"
+        expiration:
+        link: https://www.coursera.org/learn/prediction-control-function-approximation#syllabus
+        credential: https://www.coursera.org/account/accomplishments/certificate/39LCBPA7NQ62
       - title: "Sample-based Learning Methods"
         institution: "Alberta Machine Intelligence Institute"
         status: "completed"
