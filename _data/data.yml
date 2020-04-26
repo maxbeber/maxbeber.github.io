@@ -107,6 +107,13 @@ moocs:
     intro: >
       Independent courseworks.
     courseworks:
+      - title: "Reinforcement Learning Specialization"
+        institution: "Alberta Machine Intelligence Institute"
+        status: "completed"
+        issued: "Apr 2020"
+        expiration:
+        link: https://www.coursera.org/specializations/reinforcement-learning#courses
+        credential: https://www.coursera.org/account/accomplishments/specialization/certificate/KQESQYSMDQQB
       - title: "A Complete Reinforcement Learning System (Capstone)"
         institution: "Alberta Machine Intelligence Institute"
         status: "completed"
