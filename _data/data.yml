@@ -208,9 +208,18 @@ moocs:
 datacamp:
     title: Datacamp
     intro: >
-      Three career tracks completed, three skill tracks completed, 30 courses completed,
-      1650 exercises aced, and 617181 XP earned as of today.
+      Three career tracks completed, three skill tracks completed, 36 courses completed,
+      1927 exercises aced, and 805064 XP earned as of today.
     courses:
+      - title: "Introduction to Portfolio Analysis in Python"
+        issued: Jul 2020
+        credential: https://www.dropbox.com/s/j4buvecqbgu5zme/20200717-introduction-to-portfolio-analysis-in-Python.pdf?dl=0
+      - title: "Manipulating Time Series Data in Python"
+        issued: Jul 2020
+        credential: https://www.dropbox.com/s/x6txbrfpn8i3u2e/20200713-manipulating-time-series-data-in-Python.pdf?dl=0
+      - title: "Data Manipulation with pandas"
+        issued: Jul 2020
+        credential: https://www.dropbox.com/s/6zds2lumielbr8t/20200710-data-manipulation-with-pandas.pdf?dl=0
       - title: "Machine Learning with Tree-Based Models in Python"
         issued: Dec 2019
         credential: https://www.dropbox.com/s/jkyclsnr2wai65l/20191210-machine-learning-with-tree-based-models-in-python.pdf?dl=0
