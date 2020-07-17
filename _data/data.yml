@@ -213,13 +213,13 @@ datacamp:
     courses:
       - title: "Introduction to Portfolio Analysis in Python"
         issued: Jul 2020
-        credential: https://www.dropbox.com/s/j4buvecqbgu5zme/20200717-introduction-to-portfolio-analysis-in-Python.pdf?dl=0
+        credential: https://www.datacamp.com/statement-of-accomplishment/course/82f8fe7b8b8600db840068b8171485610f37799d
       - title: "Manipulating Time Series Data in Python"
         issued: Jul 2020
-        credential: https://www.dropbox.com/s/x6txbrfpn8i3u2e/20200713-manipulating-time-series-data-in-Python.pdf?dl=0
+        credential: https://www.datacamp.com/statement-of-accomplishment/course/1bc59eaf2f033c5c264aac48836103eed3f8f508
       - title: "Data Manipulation with pandas"
         issued: Jul 2020
-        credential: https://www.dropbox.com/s/6zds2lumielbr8t/20200710-data-manipulation-with-pandas.pdf?dl=0
+        credential: https://www.datacamp.com/statement-of-accomplishment/course/912ae2dcb88b418bad9e108a73fc38e0bbf104b8
       - title: "Machine Learning with Tree-Based Models in Python"
         issued: Dec 2019
         credential: https://www.dropbox.com/s/jkyclsnr2wai65l/20191210-machine-learning-with-tree-based-models-in-python.pdf?dl=0
