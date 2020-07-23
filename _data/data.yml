@@ -208,9 +208,12 @@ moocs:
 datacamp:
     title: Datacamp
     intro: >
-      Three career tracks completed, three skill tracks completed, 36 courses completed,
-      1927 exercises aced, and 805064 XP earned as of today.
+      Three career tracks completed, three skill tracks completed, 37 courses completed,
+      1927 exercises aced, and 820089 XP earned as of today.
     courses:
+      - title: "Winning a Kaggle competition in Python"
+        issued: Jul 2020
+        credential: https://www.datacamp.com/statement-of-accomplishment/course/8a56edb36d011c4d4d5d9514a01ebef5b9e1f625
       - title: "Introduction to Portfolio Analysis in Python"
         issued: Jul 2020
         credential: https://www.datacamp.com/statement-of-accomplishment/course/82f8fe7b8b8600db840068b8171485610f37799d
