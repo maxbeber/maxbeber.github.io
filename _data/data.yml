@@ -211,6 +211,9 @@ datacamp:
       Three career tracks completed, three skill tracks completed, 37 courses completed,
       1927 exercises aced, and 820089 XP earned as of today.
     courses:
+      - title: "Quantitative Risk Management in Python"
+        issued: Jul 2020
+        credential: https://www.datacamp.com/statement-of-accomplishment/course/d3b330b4b362d33b49ffa8953f9137c50739fdff
       - title: "Winning a Kaggle competition in Python"
         issued: Jul 2020
         credential: https://www.datacamp.com/statement-of-accomplishment/course/8a56edb36d011c4d4d5d9514a01ebef5b9e1f625
