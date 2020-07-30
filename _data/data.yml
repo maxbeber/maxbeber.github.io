@@ -208,9 +208,12 @@ moocs:
 datacamp:
     title: Datacamp
     intro: >
-      Three career tracks completed, three skill tracks completed, 37 courses completed,
-      1927 exercises aced, and 820089 XP earned as of today.
+      Three career tracks completed, three skill tracks completed, 39 courses completed,
+      2096 exercises aced, and 838073 XP earned as of today.
     courses:
+      - title: "Introduction to Portfolio Risk Management in Python"
+        issued: Jul 2020
+        credential: https://www.datacamp.com/statement-of-accomplishment/course/30ffc51afb931e32de10becc498573c3ddfbf0ae
       - title: "Quantitative Risk Management in Python"
         issued: Jul 2020
         credential: https://www.datacamp.com/statement-of-accomplishment/course/d3b330b4b362d33b49ffa8953f9137c50739fdff
